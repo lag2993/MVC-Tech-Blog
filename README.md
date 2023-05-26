@@ -88,9 +88,7 @@ This application is available via Heroku, but if you'd like to download it to yo
 2. Navigate into the repository directory on your local machine.
 3. Run `npm install` to install the necessary dependencies.
 4. Make sure MongoDB is running on your machine (mongod command).
-5. Run `npm run develop` to start the application from your root directory
-6. Use database client to interact to test connections or interact with data.
-
+5. Run `npm start` to start the application from your root directory
 
 ## Credits
 N/A
